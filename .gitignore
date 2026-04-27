@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/
+*.swp
+credentials.txt
+.upload_state.json
+UPLOAD_LOG.md
+CLAUDE.md
